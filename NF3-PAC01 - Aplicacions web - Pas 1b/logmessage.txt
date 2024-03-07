@@ -1,0 +1,157 @@
+2024-03-07 15:44:36	DEBUG	Texto a registrar
+2024-03-07 15:44:36	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:36	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:36	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:36	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:36	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:36	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:36	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:36	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:36	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	INFO	Guardado objeto con id: 
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	INFO	Guardado objeto con id: 
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	INFO	Guardado objeto con id: 
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	INFO	Guardado objeto con id: 56
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	INFO	Guardado objeto con id: 57
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	DEBUG	Valor de objeto string puesto
+2024-03-07 15:44:38	INFO	Guardado objeto con id: 58
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Valor de objeto obtenido
+2024-03-07 15:44:38	NOTICE	Marcado objeto para borrar 53
+2024-03-07 15:44:38	CRITICAL	Eliminado objeto con id: 53
+2024-03-07 15:44:38	NOTICE	Marcado objeto para borrar 54
+2024-03-07 15:44:38	CRITICAL	Eliminado objeto con id: 54
+2024-03-07 15:44:38	NOTICE	Marcado objeto para borrar 55
+2024-03-07 15:44:38	CRITICAL	Eliminado objeto con id: 55
