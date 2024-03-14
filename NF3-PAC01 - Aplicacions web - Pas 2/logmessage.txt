@@ -1,0 +1,3 @@
+2024-03-14 15:08:52	DEBUG	File logger test debug.
+2024-03-14 15:08:52	INFO	File logger test info.
+2024-03-14 15:08:52	WARNING	File logger test warning.
