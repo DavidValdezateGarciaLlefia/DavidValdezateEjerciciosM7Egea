@@ -1,0 +1,129 @@
+CREATE TABLE logUserApp (
+    id serial PRIMARY KEY,
+    idUserApp int NOT NULL,
+    isActive boolean,
+    codi int,
+    regtime TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    comentari TEXT
+);
+CREATE TABLE Customers (
+    CustomerID SERIAL PRIMARY KEY,
+    CustomerName VARCHAR(255) NOT NULL,
+    ContactName VARCHAR(255),
+    Address VARCHAR(255),
+    City VARCHAR(255),
+    PostalCode VARCHAR(10),
+    Country VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE logdata (
+    message TEXT,
+    loglevel SMALLINT,
+    logdate TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    module VARCHAR(255)
+);
+CREATE TABLE public.address (
+    id serial NOT NULL,
+    address character varying(50) NOT NULL,
+    address2 character varying(50),
+    district character varying(20) NOT NULL,
+    city_id smallint NOT NULL,
+    postal_code character varying(10),
+    phone character varying(20) NOT NULL,
+    last_update timestamp without time zone DEFAULT now() NOT NULL
+);
+INSERT INTO public.address (address, district, city_id, phone)
+VALUES ('123 Main St', 'Downtown', 1, '555-1234');
+
+CREATE TABLE public.store (
+    id serial NOT NULL,
+    manager_staff_id smallint NOT NULL,
+    address_id smallint NOT NULL,
+    last_update timestamp without time zone DEFAULT now() NOT NULL
+);
+
+CREATE TABLE public.city (
+    id serial NOT NULL,
+    city character varying(50) NOT NULL,
+    country_id smallint NOT NULL,
+    last_update timestamp without time zone DEFAULT now() NOT NULL
+);
+
+
+CREATE TABLE UserApp (
+    id SERIAL NOT NULL PRIMARY KEY,
+    nom VARCHAR(255),
+    "group" VARCHAR(255), -- Usando comillas para evitar conflicto con palabras reservadas
+    created TIMESTAMP WITHOUT TIME ZONE DEFAULT now() NOT NULL,
+    lastUpdated TIMESTAMP WITHOUT TIME ZONE DEFAULT now() NOT NULL,
+    isActive BOOLEAN
+);
+ public function verificarCapacidad() {
+        $numeroPasajeros = count($this->getPasajeros()->getAllMembers());
+        $numeroButacas = count($this->getButacas()->getAllMembers());
+
+        if ($numeroPasajeros > $numeroButacas) {
+            return "No hay suficientes butacas para todos los pasajeros.";
+        } else {
+            return "Hay suficientes butacas para todos los pasajeros.";
+        }
+    }
+}
+class Conductor {
+    // ...resto de la clase...
+
+    public function verificarExperiencia() {
+        // Supongamos que el número de conductor mayor a 100 significa más experiencia
+        if ($this->numeroConductor > 100) {
+            return "El conductor tiene mucha experiencia.";
+        } else {
+            return "El conductor tiene menos experiencia.";
+        }
+    }
+}
+class AutoBus extends AbstractMedioTransporte {
+    private static $contadorAutobuses = 0;
+
+    // ...resto de la clase...
+
+    public function __construct(Conductor $conductor, PasajeroCollection $pasajeros, ButacaCollection $butacas, $nombreBus, $numeroBus) {
+        parent::__construct($conductor, $pasajeros, $butacas);
+        // ...resto del constructor...
+        self::$contadorAutobuses++;
+    }
+
+    public static function getContadorAutobuses() {
+        return self::$contadorAutobuses;
+    }
+}
+
+class Tren extends AbstractMedioTransporte {
+    private static $contadorTrenes = 0;
+
+    // ...resto de la clase...
+
+    public function __construct(Conductor $conductor, PasajeroCollection $pasajeros, ButacaCollection $butacas, $nombreTren, $numeroTren) {
+        parent::__construct($conductor, $pasajeros, $butacas);
+        // ...resto del constructor...
+        self::$contadorTrenes++;
+    }
+
+    public static function getContadorTrenes() {
+        return self::$contadorTrenes;
+    }
+}
+
+// Función para comparar la cantidad de autobuses y trenes
+function compararFlota() {
+    $contadorAutobuses = AutoBus::getContadorAutobuses();
+    $contadorTrenes = Tren::getContadorTrenes();
+
+    if ($contadorAutobuses > $contadorTrenes) {
+        return "Hay más autobuses que trenes.";
+    } elseif ($contadorTrenes > $contadorAutobuses) {
+        return "Hay más trenes que autobuses.";
+    } else {
+        return "Hay igual número de autobuses y trenes.";
+    }
+}
+
