@@ -1,0 +1,100 @@
+/* Estilos básicos y configuraciones de la página */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background: white;
+    width:3000px;
+    padding: 20px 50px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+/* Estilos para inputs y botones */
+input[type="text"] {
+    padding: 10px;
+    margin-top: 20px;
+    width: 300px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #5c67f2;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #5058e2;
+}
+
+/* Estilos específicos para resultados y tablas */
+#result {
+    margin-top: 20px;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    color: #333;
+    width: 80%;
+}
+
+table {
+    width: 100%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+td {
+    background-color: #fdfdfd;
+}
+
+/* Ajustes adicionales para la estructura del formulario */
+#searchForm {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#queryInput {
+    width: 50%; /* Consistente con el estilo general del formulario */
+}
+
+#formContainer {
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+/* Estilos para los encabezados */
+h2 {
+    color: #333;
+    text-align: center;
+}
